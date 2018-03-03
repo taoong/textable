@@ -1,7 +1,9 @@
 #  Textable
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
-* Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
+* React Native App where users can view a list of ASCII art emojis and copy them to their clipboard to text to friends
+
+* Built using [Ignite](https://github.com/infinitered/ignite)
 
 ## :arrow_up: How to Setup
 
