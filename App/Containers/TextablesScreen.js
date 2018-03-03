@@ -1,5 +1,5 @@
 import React from 'react'
-import { View, SectionList, Text } from 'react-native'
+import { View, SectionList, Text, TouchableOpacity, Clipboard, TextInput} from 'react-native'
 import { connect } from 'react-redux'
 
 // More info here: https://facebook.github.io/react-native/docs/sectionlist.html
@@ -33,10 +33,10 @@ class TextablesScreen extends React.PureComponent {
   *************************************************************/
   renderItem ({section, item}) {
     return (
-      <View style={styles.row}>
+      <TouchableOpacity style={styles.row} onPress={() => Clipboard.setString(item.description)}>
         <Text style={styles.boldLabel}>{item.title}</Text>
         <Text style={styles.label}>{item.description}</Text>
-      </View>
+      </TouchableOpacity>
     )
   }
 
@@ -112,6 +112,7 @@ class TextablesScreen extends React.PureComponent {
           ListEmptyComponent={this.renderEmpty}
           ItemSeparatorComponent={this.renderSeparator}
         />
+        <TextInput style={{backgroundColor: 'white', height: 50, flexGrow: 1, textAlign: 'center'}}/>
       </View>
     )
   }
