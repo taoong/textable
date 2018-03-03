@@ -1,0 +1,606 @@
+[
+  {
+    "key":"Faces",
+    "data": [
+      {
+        "title": "Oh well!",
+        "description" : "¯\\_(ツ)_/¯"
+      },
+      {
+        "title": "Disapproving Look",
+        "description":  "ಠ_ಠ"
+      },
+      {
+        "title": "Disapproving Look 2",
+        "description":  "ఠ_ఠ"
+      },
+      {
+        "title": "Glasses Smile",
+        "description":  "ʘ‿ʘ"
+      },
+      {
+        "title": "Devious Smile",
+        "description":  "ಠ‿ಠ"
+      },
+      {
+        "title": "Frowning",
+        "description": "ಠ╭╮ಠ"
+      },
+      {
+        "title": "Yelling",
+        "description": "ಠoಠ"
+      },
+      {
+        "title": "Mustache Man",
+        "description": "ಠ▃ಠ"
+      },
+      {
+        "title": "Blank Stare",
+        "description": "ರ_ರ"
+      },
+      {
+        "title": "HUH?",
+        "description":  "ლ(｀ー´ლ)"
+      },
+      {
+        "title": "Rosy Cheeks",
+        "description":  "(｡◕‿◕｡)"
+      },
+      {
+        "title": "hehehe",
+        "description":  "( ¬‿¬)"
+      },
+      {
+        "title": "Pointing Out",
+        "description":  "☜(⌒▽⌒)☞"
+      },
+      {
+        "title": "Haha!",
+        "description":  "☜(ﾟヮﾟ☜)"
+      },
+      {
+        "title": "Run Away Crying",
+        "description":  "ε=ε=ε=┌(;*´Д`)ﾉ"
+      },
+      {
+        "title": "Cheers",
+        "description":  "（ ^_^）o自自o（^_^ ）"
+      },
+      {
+        "title": "Up All Night",
+        "description":  "۞_۞"
+      },
+      {
+        "title": "High",
+        "description":  "q(❂‿❂)p"
+      },
+      {
+        "title": "Dazed & Confused",
+        "description":  "⊙﹏⊙"
+      },
+      {
+        "title": "No Clue!",
+        "description":  "¯\\_(⊙︿⊙)_/¯"
+      },
+      {
+        "title": "I Dunno",
+        "description":  "¯\\(°_o)/¯ "
+      },
+      {
+        "title": "Staring Eyes",
+        "description":  "Ꙭ"
+      },
+      {
+        "title": "Cat Eyes",
+        "description": "ф_ф"
+      },
+      {
+        "title": "Winking",
+        "description": "◕‿↼"
+      },
+      {
+        "title": "Reaching Down",
+        "description":  "(,,Ծ‸Ծ,,)"
+      },
+      {
+        "title": "Just Woke up",
+        "description":  "╰(´・｀)ﾉ"
+      },
+      {
+        "title": "Sleep Walking",
+        "description":  "(¬º-°)¬"
+      },
+      {
+        "title": "Disappointed Look",
+        "description":  "(-_-)"
+      }
+    ]
+  },
+  {
+    "key": "Emotions",
+    "data": [
+      {
+        "title": "Angry",
+        "description":  "{{|└(>o< )┘|}}"
+      },
+      {
+        "title": "Why, God, WHY!?",
+        "description":  "щ（ﾟДﾟщ）"
+      },
+      {
+        "title": "In Love",
+        "description":  "♥（｡✿‿✿｡）❤"
+      },
+      {
+        "title": "In Love 2",
+        "description":  "♥‿♥"
+      },
+      {
+        "title": "Puzzled",
+        "description":  "く(＾_・)ゝ"
+      },
+      {
+        "title": "Mad",
+        "description":  "（　ﾟДﾟ）"
+      },
+      {
+        "title": "Whatever",
+        "description":  "（＾～＾）ノ"
+      },
+      {
+        "title": "Happy",
+        "description":  "ヽ(´▽`)/"
+      },
+      {
+        "title": "Love at First Sight",
+        "description":  "꒰♡ˊ͈ ु꒳ ूˋ͈꒱.⑅*♡"
+      },
+      {
+        "title": "Need A Hug",
+        "description":  "ヽ(´ー｀)ノ"
+      },
+      {
+        "title": "So Beautiful!",
+        "description":  "ಥ_ಥ"
+      },
+      {
+        "title": "Sad / Crying",
+        "description":  "ಥ﹏ಥ"
+      },
+      {
+        "title": "Embarrased",
+        "description":  "(﹡⌒▽⌒﹡)"
+      },
+      {
+        "title": "Extra Embarrased",
+        "description":  "(/ω＼)"
+      },
+      {
+        "title": "No Thanks",
+        "description": "(ღ˘⌣˘ღ)"
+      },
+      {
+        "title": "I've Seen The Light",
+        "description": "•✞_✞•"
+      }
+    ]
+  },
+  {
+    "key": "Characters",
+    "data": [
+      {
+        "title": "Officer",
+        "description":  "(̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄"
+      },
+      {
+        "title": "PedoBear",
+        "description":  "ᶘ ᵒᴥᵒᶅ"
+      },
+      {
+        "title": "Deal WIth It!",
+        "description":  "(⌐■_■)"
+      },
+      {
+        "title": "Kid Has No Clue",
+        "description":  "٩(͡๏̯͡๏)۶"
+      },
+      {
+        "title": "No Clue 2",
+        "description": "٩๏̯͡๏۶"
+      },
+      {
+        "title": "Blob",
+        "description":  "ヽ༼ຈل͜ຈ༽/"
+      },
+      {
+        "title": "Pdescriptiony Boy",
+        "description":  "┗(＾0＾)┓"
+      },
+      {
+        "title": "Pdescriptiony Time",
+        "description":  "┏(-_-)┛┗(-_-)┓┗(-_-)┛"
+      },
+      {
+        "title": "Sparkles!",
+        "description":  "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧"
+      },
+      {
+        "title": "Zoidberg",
+        "description":  "(•ω•)"
+      },
+      {
+        "title": "Bearing Gifts",
+        "description":  "(´・ω・)っ由"
+      },
+      {
+        "title": "Le Meme",
+        "description":  "͡° ͜ʖ ͡°"
+      },
+      {
+        "title": "Le Meme 2",
+        "description":  "(͡° ͜ʖ ͡°)"
+      },
+      {
+        "title": "Winky",
+        "description": "( ͡~ ͜ʖ ͡°)"
+      },
+      {
+        "title": "Big Nose",
+        "description":  "(͡๏̯¿͡๏)"
+      },
+      {
+        "title": "Baby",
+        "description":  "（⌒◎⌒）"
+      },
+      {
+        "title": "Asleep",
+        "description":  "★☽(。￣-￣)"
+      },
+      {
+        "title": "Singer",
+        "description":  "♪＼(^o^)／♩"
+      },
+      {
+        "title": "Dancing",
+        "description":  "〈( ^.^)ノ"
+      },
+      {
+        "title": "Writing a Note",
+        "description":  "＿〆(。。)"
+      },
+      {
+        "title": "Waving",
+        "description":  "ヾ(＾∇＾)"
+      },
+      {
+        "title": "Snowman",
+        "description":  "☃"
+      },
+      {
+        "title": "I Am Not A Crook!",
+        "description": "✌.|•͡˘‿•͡˘|.✌"
+      },
+      {
+        "title": "Alien",
+        "description": "༺‿༻"
+      },
+      {
+        "title": "Metalhead",
+        "description": "\\m/ d-_-b \\m/"
+      },
+      {
+        "title": "David Bowie",
+        "description": "(･.◤)"
+      },
+      {
+        "title": "Flying Spaghetti Monster",
+        "description": "~;;o; ° ° ;;o;~"
+      }
+    ]
+  },
+  {
+    "key": "Table Flip",
+    "data": [
+      {
+        "title": "Classic Flip",
+        "description":  "(╯°□°）╯︵ ┻━┻"
+      },
+      {
+        "title": "Angry",
+        "description":  "(ﾉಥ益ಥ）ﾉ﻿ ┻━┻"
+      },
+      {
+        "title": "One-Handed",
+        "description":  "┬──┬﻿ ¯\\_(ツ)"
+      },
+      {
+        "title": "Double / Scream",
+        "description":  "┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻"
+      },
+      {
+        "title": "Indifferent",
+        "description":  "┬─┬ノ( º _ ºノ)"
+      },
+      {
+        "title": "Angry",
+        "description":  "(ノಠ益ಠ)ノ彡┻━┻"
+      },
+      {
+        "title": "Monocle",
+        "description":  "(╯ಠ_ರೃ)╯︵ ┻━┻"
+      },
+      {
+        "title": "Person Flip",
+        "description":  "(╯°□°）╯︵ /(.□. \\)"
+      },
+      {
+        "title": "Jake the Dog",
+        "description":  "(┛❍ᴥ❍﻿)┛彡┻━┻"
+      },
+      {
+        "title": "Owl Flip",
+        "description":  "(ʘ∇ʘ)ク 彡 ┻━┻"
+      },
+      {
+        "title": "One-handed",
+        "description":  "/(ò.ó)┛彡┻━┻"
+      },
+      {
+        "title": "Trippin' Flip",
+        "description":  "(┛◉Д◉)┛彡┻━┻"
+      }
+    ]
+  },
+  {
+    "key": "Flexing",
+    "data": [
+      {
+        "title": "Double Flex",
+        "description":  "ᕙ(⇀‸↼‶)ᕗ"
+      },
+      {
+        "title": "Superior Flex",
+        "description":  "ᕙ(`▽´)ᕗ"
+      },
+      {
+        "title": "One-Arm Flex",
+        "description":  "ᕙ( ^ₒ^ c)"
+      },
+      {
+        "title": "Boxing Champion",
+        "description":  "ᕦ(ò_ó*)ᕤ"
+      },
+      {
+        "title": "Happy-Go-Lucky",
+        "description": "ᕕ( ᐛ )ᕗ"
+      }
+    ]
+  },
+  {
+    "key": "Animals",
+    "data": [
+      {
+        "title": "Cute Bear",
+        "description":  "ʕ•ᴥ•ʔ"
+      },
+      {
+        "title": "Bear In Headlights",
+        "description":  "‹ʕᵒᴥᵒ­­­­­ʔ›﻿"
+      },
+      {
+        "title": "Grizzly",
+        "description":  "ლʕಠᴥಠʔლ"
+      },
+      {
+        "title": "Bear Hug",
+        "description":  "ʕु•̫͡•ʔु"
+      },
+      {
+        "title": "Butterfly",
+        "description":  "Ƹ̵̡Ӝ̵̨̄Ʒ"
+      },
+      {
+        "title": "Dog",
+        "description":  "(ᵔᴥᵔ)"
+      },
+      {
+        "title": "Pig",
+        "description":  "q(￣(oo)￣)p"
+      },
+      {
+        "title": "Fat Pig",
+        "description":  "^(｀（ ● ●）´ )^"
+      },
+      {
+        "title": "Cute Pig",
+        "description":  "<(ﾟ´(｡｡)`ﾟ)>"
+      },
+      {
+        "title": "Angry Cat",
+        "description":  "o(≧o≦)o"
+      },
+      {
+        "title": "Cat",
+        "description":  "（=ﾟ･ﾟ=）"
+      },
+      {
+        "title": "Polar Bear",
+        "description":  "(●￣(ｴ)￣ ●)"
+      },
+      {
+        "title": "Fish",
+        "description":  ">°))))彡"
+      },
+      {
+        "title": "Swimming Fish",
+        "description":  "～～ >°))))))))><<"
+      },
+      {
+        "title": "Octopus",
+        "description":  "(_/\\_(O O)_/\\_)"
+      }
+    ]
+  },
+  {
+    "key": "Flip The Bird",
+    "data": [
+      {
+        "title": "I Don't Care",
+        "description":  "╭∩╮（︶︿︶）╭∩╮"
+      },
+      {
+        "title": "Crazy Eyes",
+        "description":  "┌∩┐(◣_◢)┌∩┐"
+      },
+      {
+        "title": "Irreverent",
+        "description":  "t ( - _ - t )"
+      },
+      {
+        "title": "Go Away",
+        "description":  "凸(-_-)凸"
+      },
+      {
+        "title": "Mad",
+        "description":  "凸 (｀0´)凸"
+      },
+      {
+        "title": "Rage",
+        "description":  "┌∩┐(﹒︠益﹒︡)┌∩┐"
+      },
+      {
+        "title": "Steaming",
+        "description":  "凸(`д´)凸"
+      },
+      {
+        "title": "Indignant",
+        "description":  "凸(｀⌒´メ)凸"
+      },
+      {
+        "title": "Smiley",
+        "description":  "凸( ͡° ͜ʖ ͡°)凸"
+      }
+    ]
+  },
+  {
+    "key": "Phrases",
+    "data": [
+      {
+        "title": "YOLO!",
+        "description":  "Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ"
+      },
+      {
+        "title": "O, RLY?",
+        "description":  "﴾͡๏̯͡๏﴿ O'RLY?"
+      },
+      {
+        "title": "Love",
+        "description":  "ℒℴνℯ"
+      }
+    ]
+  },
+  {
+    "key": "Objects",
+    "data": [
+      {
+        "title": "Rose",
+        "description":  "@>--;--"
+      },
+      {
+        "title": "5 Bucks",
+        "description":  "[̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]"
+      },
+      {
+        "title": "Small Guns",
+        "description":  " ̿ ̿̿'̿'\\̵͇̿̿\\=(•̪○)=/̵͇̿̿/'̿̿ ̿ ̿ ̿"
+      },
+      {
+        "title": "Large Guns",
+        "description":  "̿̿ ̿̿ ̿̿ ̿̿ ̿'̿'\\̵͇̿̿\\з=( ͡° ͜ʖ ͡°)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ "
+      },
+      {
+        "title": "Submachine Gun",
+        "description":  "⌐╦╦═─"
+      },
+      {
+        "title": "Sniper Rifle",
+        "description":  "▄︻̷̿┻̿═━一"
+      },
+      {
+        "title": "Sniper Rifle 2",
+        "description":  "▄︻̷̿┻̿┳═一"
+      },
+      {
+        "title": "Cigarette",
+        "description":  " ̜ ̳ ̳ ̳ ̳ ͙ ڪ"
+      },
+      {
+        "title": "To Boldly Go...",
+        "description":  "═̷͟═͟ ⊂⁀ ⊃"
+      }
+    ]
+  },
+  {
+    "key": "Embelishments",
+    "data": [
+      {
+        "title": "Border",
+        "description":  "•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•"
+      },
+      {
+        "title": "Hedescription / Music",
+        "description":  "♪♫•*¨*•.¸¸❤¸¸.•*¨*•♫♪"
+      },
+      {
+        "title": "Customize Text 1",
+        "description":  "˙·٠•●♥ Text ♥●•٠·˙"
+      },
+      {
+        "title": "Customize Text 2",
+        "description":  "•♥•♥•♥•♥•♥ Text ♥•♥•♥•♥•♥•"
+      }
+    ]
+  },
+  {
+    "key": "Symbols",
+    "data": [
+      {
+        "title": "Peace",
+        "description":  "✌"
+      },
+      {
+        "title": "Flower",
+        "description":  "❀"
+      },
+      {
+        "title": "Music Note",
+        "description":  "♫"
+      },
+      {
+        "title": "Music Note 2",
+        "description":  "♪"
+      },
+      {
+        "title": "Umbrella",
+        "description":  "☂"
+      },
+      {
+        "title": "Coffee",
+        "description":  "☕"
+      },
+      {
+        "title": "Kiss",
+        "description":  "💋"
+      }
+    ]
+  },
+  {
+    "key": "Disruptive",
+    "data": [
+      {
+        "title": "Endless Tears",
+        "description":  "Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠̖͍͚̥͈̮̼͕̠̤̯̻̥̬̗̼̳̤̳̬̪̹͚̞̼̠͕̼̠̦͚̫͔̯̹͉͉̘͎͕̼̣̝͙̱̟̹̩̟̳̦̭͉̮̖̭̣̣̞̙̗̜̺̭̻̥͚͙̝̦̲̱͉͖͉̰̦͎̫̣̼͎͍̠̮͓̹̹͉̤̰̗̙͕͇͔̱͕̭͈̳̗̭͔̘̖̺̮̜̠͖̘͓̳͕̟̠̱̫̤͓͔̘̰̲͙͍͇̙͎̣̼̗̖͙̯͉̠̟͈͍͕̪͓̝̩̦̖̹̼̠̘̮͚̟͉̺̜͍͓̯̳̱̻͕̣̳͉̻̭̭̱͍̪̩̭̺͕̺̼̥̪͖̦̟͎̻̰_Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠̖͍͚̥͈̮̼͕̠̤̯̻̥̬̗̼̳̤̳̬̪̹͚̞̼̠͕̼̠̦͚̫͔̯̹͉͉̘͎͕̼̣̝͙̱̟̹̩̟̳̦̭͉̮̖̭̣̣̞̙̗̜̺̭̻̥͚͙̝̦̲̱͉͖͉̰̦͎̫̣̼͎͍̠̮͓̹̹͉̤̰̗̙͕͇͔̱͕̭͈̳̗̭͔̘̖̺̮̜̠͖̘͓̳͕̟̠̱̫̤͓͔̘̰̲͙͍͇̙͎̣̼̗̖͙̯͉̠̟͈͍͕̪͓̝̩̦̖̹̼̠̘̮͚̟͉̺̜͍͓̯̳̱̻͕̣̳͉̻̭̭̱͍̪̩̭̺͕̺̼̥̪͖̦̟͎̻̰"
+      }
+    ]
+  }
+]
